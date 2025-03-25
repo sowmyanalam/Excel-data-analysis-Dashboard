@@ -26,6 +26,13 @@ Develop an interactive Global Operations Dashboard to monitor and analyze key pe
 - Created pivot tables according to the analysis
 - Created a dashboard of all the visuals in one place and applied the slicer visual to the Dashboard.
 
+# Dashboard
+
+![global operations updated](https://github.com/user-attachments/assets/646bc533-761f-4293-b7a6-febb90bb6ce5)
+
+
+
+
  # Insights:
  
  * 🌍𝐆𝐋𝐎𝐁𝐀𝐋 𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍𝐒 𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖* 
