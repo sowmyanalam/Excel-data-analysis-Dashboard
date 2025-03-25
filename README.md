@@ -18,6 +18,6 @@ Develop an interactive Global Operations Dashboard to monitor and analyze key pe
 -Top 10 countries-Having high Priority?
 -No of units sold by sales channel.
 
--Dashboard Interaction <a href="https://github.com/sowmyanalam/Excel-data-analysis-Dashboard/blob/main/global%20operations%20updated.jpg"> View Dashboard<\a>
+-Dashboard Interaction <a href="https://github.com/sowmyanalam/Excel-data-analysis-Dashboard/blob/main/global%20operations%20updated.jpg">View Dashboard<\a>
 
 
