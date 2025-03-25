@@ -6,7 +6,7 @@ Develop an interactive Global Operations Dashboard to monitor and analyze key pe
 
 ## Dataset Used:
 - <a href ="https://github.com/sowmyanalam/Excel-data-analysis-Dashboard/blob/main/Sales_18th%20Mar%202025.xlsx">Dataset</a>
-## Questions(KPI):
+## Questions(KPI)
 -Total Countries.
 -Total Item Type.
 -Total revenue.
@@ -19,5 +19,12 @@ Develop an interactive Global Operations Dashboard to monitor and analyze key pe
 -No of units sold by sales channel.
 
 -Dashboard Interaction <a href="https://github.com/sowmyanalam/Excel-data-analysis-Dashboard/blob/main/global%20operations%20updated.jpg">View Dashboard<\a>
+# Process
+
+-Process involved Data cleaning.
+-Derived new columns out of the data given -Revenue,Total cost,Total Profit.
+-Created pivot tables according to the analysis
+-Created a dashboard of all the visuals in one place and applied the slicer visual to the Dashboard.
+
 
 
