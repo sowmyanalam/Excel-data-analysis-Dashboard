@@ -1,10 +1,9 @@
 # Global Store Operations Dashboard(Interactive Dashboard creation using MS Excel)
-# Data-driven insights into operational efficiency, trends, and key performance metrics. Interactive visualizations for informed decision-making."
 
-Project Objective:
+## Project Objective
 Develop an interactive Global Operations Dashboard to monitor and analyze key performance metrics, operational efficiency, and business trends. Utilize Excel to visualize data, identify patterns, and support data-driven decision-making for improved global operations management.
 
-## Dataset Used:
+## Dataset Used
 - <a href ="https://github.com/sowmyanalam/Excel-data-analysis-Dashboard/blob/main/Sales_18th%20Mar%202025.xlsx">Dataset</a>
 ## Questions(KPIs)
 - Total Countries.
@@ -29,9 +28,6 @@ Develop an interactive Global Operations Dashboard to monitor and analyze key pe
 # Dashboard
 
 ![global operations updated](https://github.com/user-attachments/assets/646bc533-761f-4293-b7a6-febb90bb6ce5)
-
-
-
 
  # Insights:
  
