@@ -26,9 +26,9 @@ Develop an interactive Global Operations Dashboard to monitor and analyze key pe
 - Created pivot tables according to the analysis
 - Created a dashboard of all the visuals in one place and applied the slicer visual to the Dashboard.
 
--  #  Insights:
+ # Insights:
  
- * - 🌍𝐆𝐋𝐎𝐁𝐀𝐋 𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍𝐒 𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖* 
+ * 🌍𝐆𝐋𝐎𝐁𝐀𝐋 𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍𝐒 𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖* 
  
  Operating in 76 countries across 7 regions, showcasing extensive global presence.
  Portfolio includes 12 product categories, ensuring diversification.
