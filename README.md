@@ -1,4 +1,4 @@
-# Excel-data-analysis-Dashboard
+# Global Store Operations Dashboard(Interactive Dashboard creation using MS Excel)
 # Data-driven insights into operational efficiency, trends, and key performance metrics. Interactive visualizations for informed decision-making."
 
 Project Objective:
