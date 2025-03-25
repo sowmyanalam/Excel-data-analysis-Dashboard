@@ -2,9 +2,12 @@
 # Data-driven insights into operational efficiency, trends, and key performance metrics. Interactive visualizations for informed decision-making."
 
 Project Objective:
-Develop an interactive Global Operations Dashboard to monitor and analyze key performance metrics, operational efficiency, and business trends. Utilize Power BI, SQL, and Excel to visualize data, identify patterns, and support data-driven decision-making for improved global operations management.
+Develop an interactive Global Operations Dashboard to monitor and analyze key performance metrics, operational efficiency, and business trends. Utilize Excel to visualize data, identify patterns, and support data-driven decision-making for improved global operations management.
 
-Questions(KPI):
+## Dataset Used:
+
+
+## Questions(KPI):
 -Total Countries
 -Total Item Type
 -Total revenue
