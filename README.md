@@ -5,8 +5,7 @@ Project Objective:
 Develop an interactive Global Operations Dashboard to monitor and analyze key performance metrics, operational efficiency, and business trends. Utilize Excel to visualize data, identify patterns, and support data-driven decision-making for improved global operations management.
 
 ## Dataset Used:
-
-
+- <a href ="https://github.com/sowmyanalam/Excel-data-analysis-Dashboard/blob/main/Sales_18th%20Mar%202025.xlsx">Dataset</a>
 ## Questions(KPI):
 -Total Countries
 -Total Item Type
