@@ -21,10 +21,10 @@ Develop an interactive Global Operations Dashboard to monitor and analyze key pe
 -Dashboard Interaction <a href="https://github.com/sowmyanalam/Excel-data-analysis-Dashboard/blob/main/global%20operations%20updated.jpg">View Dashboard<\a>
 # Process
 
--Process involved Data cleaning.
--Derived new columns out of the data given -Revenue,Total cost,Total Profit.
--Created pivot tables according to the analysis
--Created a dashboard of all the visuals in one place and applied the slicer visual to the Dashboard.
+- Process involved Data cleaning.
+- Derived new columns out of the data given -Revenue,Total cost,Total Profit.
+- Created pivot tables according to the analysis
+- Created a dashboard of all the visuals in one place and applied the slicer visual to the Dashboard.
 
 
 
