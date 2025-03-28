@@ -83,9 +83,9 @@ Recommendations:
 Consider innovation or targeted marketing for low-performing categories.
 
 3. Sales Channel Breakdown
-Offline Sales: 54% of total revenue.
+- Offline Sales: 54% of total revenue.
 
-Online Sales: 46%, indicating significant growth potential in digital platforms.
+- Online Sales: 46%, indicating significant growth potential in digital platforms.
 
 Actionable Insight: Strengthen online sales strategies to achieve a more balanced distribution between channels.
 
@@ -114,20 +114,20 @@ Launch seasonal campaigns to target weak months and maintain consistent revenue.
 💻Repository Contents
 Included Visualizations:
 
-Yearly Trends: Revenue, profit, and cost from 2016–2023.
+- Yearly Trends: Revenue, profit, and cost from 2016–2023.
 
-Quarterly Performance: Comparative data for Q1–Q4.
+- Quarterly Performance: Comparative data for Q1–Q4.
 
-Monthly Trends: Revenue flow across months.
+- Monthly Trends: Revenue flow across months.
 
-Market and Category Analysis: High-priority countries and top-performing categories.
+- Market and Category Analysis: High-priority countries and top-performing categories.
 
-Sales Channel Comparison: Online vs. offline sales distribution.
+- Sales Channel Comparison: Online vs. offline sales distribution.
 
 Tools and Features:
-Interactive Filters: Explore data by year, quarter, or category.
+- Interactive Filters: Explore data by year, quarter, or category.
 
-Visual Insights: Line charts, bar graphs, and pie charts for easy interpretation.
+- Visual Insights: Line charts, bar graphs, and pie charts for easy interpretation.
 
  ## *🎯 Contribution Guidelines* 
 
