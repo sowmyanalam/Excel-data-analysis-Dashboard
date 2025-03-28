@@ -30,11 +30,11 @@ This reflects efficient cost management and profitability despite operational sc
 1. Yearly Analysis (2016–2023)
 Growth Trajectory:
 
-Steady increase in revenue, profit, and cost from 2016 to 2022.
+-Steady increase in revenue, profit, and cost from 2016 to 2022.
 
-2022: A standout year with a significant spike in revenue and profit.
+-2022: A standout year with a significant spike in revenue and profit.
 
-2023: Slight decline in financial performance due to potential market challenges or increased costs.
+-2023: Slight decline in financial performance due to potential market challenges or increased costs.
 
 Key Insights:
 
