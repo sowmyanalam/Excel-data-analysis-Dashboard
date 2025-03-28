@@ -38,21 +38,21 @@ Growth Trajectory:
 
 Key Insights:
 
-2022 could serve as a benchmark year to replicate strategies.
+- 2022 could serve as a benchmark year to replicate strategies.
 
-Address market challenges in 2023 to regain upward momentum.
+- Address market challenges in 2023 to regain upward momentum.
 
 2. Quarterly Breakdown
-Top Quarter: Q4 leads in revenue and profit, possibly driven by seasonal or year-end sales trends.
+- Quarter: Q4 leads in revenue and profit, possibly driven by seasonal or year-end sales trends.
 
-Lowest Quarter: Q3 underperforms across revenue, cost, and profit.
+- Lowest Quarter: Q3 underperforms across revenue, cost, and profit.
 
 Actionable Insight: Focus efforts on boosting Q3 through targeted campaigns or optimized strategies.
 
 3. Monthly Trends
-Peak Months: February–April consistently show strong performance.
+- Peak Months: February–April consistently show strong performance.
 
-Weaker Months: Performance tapers toward the latter half of the year, requiring intervention.
+ - Weaker Months: Performance tapers toward the latter half of the year, requiring intervention.
 
  *Recommendations:* 
 
